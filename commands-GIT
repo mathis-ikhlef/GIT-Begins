@@ -1,0 +1,8 @@
+Cloner un repository:git clone./nom-du-fichier
+ 
+les trois commandes permettant de push :
+
+git add:cela permet de modifier un fichier
+git clone: sauvegarder une ancienne version du fichier 
+git push : cela va envoyer le push sur Github
+
